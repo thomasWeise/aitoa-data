@@ -18,6 +18,7 @@ The following result data sets are available for the Job-Shop Scheduling (JSSP) 
 |[eac.tar.xz](jssp/eac.tar.xz)|47.9&nbsp;MiB|360.0&nbsp;MiB|Evolutionary Algorithm with Clearing|
 |[sa.tar.xz](jssp/sa.tar.xz)|11.9&nbsp;MiB|96.3&nbsp;MiB|Simulated Annealing|
 |[hc2.tar.xz](jssp/hc2.tar.xz)|7.2&nbsp;MiB|56.3&nbsp;MiB|Hill Climber 2 w/o Restarts|
+|[ma.tar.xz](jssp/ma.tar.xz)|17.9&nbsp;MiB|142.0&nbsp;MiB|Memetic Algorithm based on `hc2`|
 
 ## 3. License
 
