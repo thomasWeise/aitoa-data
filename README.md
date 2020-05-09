@@ -19,6 +19,7 @@ The following result data sets are available for the Job-Shop Scheduling (JSSP) 
 |[sa.tar.xz](jssp/sa.tar.xz)|11.9&nbsp;MiB|96.3&nbsp;MiB|Simulated Annealing|
 |[hc2.tar.xz](jssp/hc2.tar.xz)|7.2&nbsp;MiB|56.3&nbsp;MiB|Hill Climber 2 w/o Restarts|
 |[ma.tar.xz](jssp/ma.tar.xz)|17.9&nbsp;MiB|142.0&nbsp;MiB|Memetic Algorithm based on `hc2`|
+|[umda.tar.xz](jssp/umda.tar.xz)|27.7&nbsp;MiB|224.1&nbsp;MiB|UMDA-style Estimation of Distribution Algorithm|
 
 ## 3. License
 
