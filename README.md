@@ -3,7 +3,7 @@
 ## 1. Introduction
 
 This repository holds the experimental result data used in the book "[An Introduction to Optimization Algorithms](http://thomasweise.github.io/aitoa/index.html)".
-With this data, in conjunction with the R scripts in [thomasWeise/aitoaEvaluate](http://github.com/thomasWeise/aitoaEvaluate), you can generate most of the diagrams and charts in the book.
+With this data, in conjunction with the `R` scripts in [thomasWeise/aitoaEvaluate](http://github.com/thomasWeise/aitoaEvaluate), you can generate most of the diagrams and charts in the book.
 
 ## 2. Contents
 
@@ -19,7 +19,9 @@ The following result data sets are available for the Job-Shop Scheduling (JSSP) 
 |[sa.tar.xz](jssp/sa.tar.xz)|11.9&nbsp;MiB|96.3&nbsp;MiB|Simulated Annealing|
 |[hc2.tar.xz](jssp/hc2.tar.xz)|7.2&nbsp;MiB|56.3&nbsp;MiB|Hill Climber 2 w/o Restarts|
 |[ma.tar.xz](jssp/ma.tar.xz)|17.9&nbsp;MiB|142.0&nbsp;MiB|Memetic Algorithm based on `hc2`|
-|[umda.tar.xz](jssp/umda.tar.xz)|27.7&nbsp;MiB|224.1&nbsp;MiB|UMDA-style Estimation of Distribution Algorithm|
+|[umda.tar.xz](jssp/umda.tar.xz)|66.1&nbsp;MiB|543.4&nbsp;MiB|UMDA-style Estimation of Distribution Algorithm|
+|[umdac.tar.xz](jssp/umdac.tar.xz)|29.3&nbsp;MiB|236.7&nbsp;MiB|The UMDA with Clearing|
+|[humda.tar.xz](jssp/humda.tar.xz)|30.8&nbsp;MiB|240.8&nbsp;MiB|The UMDA hybridized with local search|
 
 ## 3. License
 
